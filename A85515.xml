@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand case of conscience stated, about submission to the new and present power. Or, An impassionate answer to a modest book concerning the lawfullnesse of submitting to the present government. By one that professeth himself a friend to presbytery, a lover and embracer of truth wheresoever he find's it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85515</idno>
+            <idno type="STC">Wing G1486C</idno>
+            <idno type="STC">Thomason E530_45</idno>
+            <idno type="STC">ESTC R205686</idno>
+            <idno type="EEBO-CITATION">99864991</idno>
+            <idno type="PROQUEST">99864991</idno>
+            <idno type="VID">117224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117224)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E530[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand case of conscience stated, about submission to the new and present power. Or, An impassionate answer to a modest book concerning the lawfullnesse of submitting to the present government. By one that professeth himself a friend to presbytery, a lover and embracer of truth wheresoever he find's it.</title>
+                  <author>Ward, Nathaniel, 1578-1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Underhill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Format uniform with "The second part of the religious demurrer", which was printed by Thomas Underhill. Publication date from Wing.</note>
+                  <note>Apparently a third part of a series of tracts: the first, by Nathaniel Ward, has title "A religious demurrer, concerning submission to the present power"; the second, by "a lover of truth and peace", has title "A second part of the religious demurrer".</note>
+                  <note>In response to: Rous, Francis.  The lawfulnes of obeying the present government.</note>
+                  <note>Annotation on Thomason copy: "Relig: Demurrer 3d Lter [i.e. letter]"; June 22. 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rous, Francis, 1579-1659. --  Lawfulnes of obeying the present government --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117224:1" rendition="simple:additions"/>
+            <head>The Grand CASE OF CONSCIENCE STATED, about Submiſſion to the new and preſent Power. OR, An impaſſionate ANSWER to a modeſt BOOK concerning the law<g ref="char:EOLhyphen"/>fullneſſe of ſubmitting to the preſent Government. By one that profeſſeth himſelf a friend to Presbytery, a lover and em<g ref="char:EOLhyphen"/>bracer of Truth whereſoever he find's it.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I love not contention, yet I deſire ſatisfaction: that whilſt I live amidſt a tumultuous generation, and unquiet times, I may be delivered from a troubled ſpirit and diſcalm'd minde; <hi>A wounded ſpirit who can bear?</hi> I was willing to have ſate down in ſilence, re<g ref="char:EOLhyphen"/>ſolving to have kept my conſcience, as void of offence to others, ſo free from diſturbance in it ſelf, chuſing rather quietly to ſuffer for not doing what was commanded, than knowingly to act what is (at leaſt to me) unlawfull: ſuch a <hi>Liberty of Conſcience</hi> I conceive none will deny me. But ſince that Book came to mine hands, I (although unwillingly) undertook this task, not only out of an earneſt deſire I had to finde out truth, but for the unuſuall modeſty of the Tract it ſelf, knowing that the fowleſt corn is beſt winnowed in a gentle gale; a tempeſtuous winde blowes away chaffe and corn too.</p>
+            <p>I ſhall take a brief view of the book,<note place="margin">
+                  <hi>Pag.</hi> 1.</note> and ſubmit what I ſhall ſpeak to the Au<g ref="char:EOLhyphen"/>thours judgement, <hi>A Declaration hath been lately publiſhed,</hi> &amp;c. Indeed there was ſuch a Declaration publiſhed, which I deſired with much earneſtneſſe, and read with ſome deliberation, expecting to have found the very quinteſſence of reaſon, and ſtrength of argument, whereby judicious men might have been wholly convinced, and abundantly ſatisfied; but my ſcruples were not anſwered by it. For ſuppoſe that had been proved, which was there much argued, That the government of a free State were in ſome reſpects more convenient than that of Monarchy; that might have been a prevalent argument to an irregulated people, who were <hi>(de novo)</hi> to conſtitute a Government, not to thoſe, who had before an antient form ſuited to the people, eſtabliſhed by Law, confirmed by Oath, and engaged to by the ſeverall Declarations of them who are ſo ſollicitous for the altering of it. Surely if conve<g ref="char:EOLhyphen"/>nience or inconvenience only can break a promiſe, and diſingage an Oath, <hi>David</hi> was much miſtaken in the 15<hi rend="sup">th</hi> 
+               <hi>Pſalm,</hi> and others may be eaſily cheated, who ex<g ref="char:EOLhyphen"/>pect
+<pb n="2" facs="tcp:117224:2" rendition="simple:additions"/> ready performance of, not needleſſe diſputing about Oaths, in which men ſtand bound to them,<note place="margin">Pag. 21. Of the Declaration.</note> What is there ſaid concerning Declararions <hi>[That the Lords and Commons were of that minde when they made them]</hi> may ſerve their turns for the preſent, but would equally ſerve others turns for the future; For by the ſame reaſon; when thoſe that penned and publiſhed that Declaration, ſhall borrow money of men, and declare to pay them, imploy Souldiers with an engagement to ſatisfie them, people may ſuſpect that their mindes may alter, and then (by this rule) their former Declarations will be of no ſtrength.</p>
+            <p>What is further ſpoken in the Preface for a lawfull obedience to an unlawfull change of Government, will be touched on in the further proſecution of this diſ<g ref="char:EOLhyphen"/>courſe. It is ſaid [<hi>The Apoſtle commands obedience to higher powers, Rom.</hi> 13. and thence it is inferred, <hi>that he ſpeaks not in that place meerly of power or authority ab<g ref="char:EOLhyphen"/>stracted from perſons,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 1, 2.</note> 
+               <hi>but of perſons cloathed with that authority.</hi>] The Apoſtle ſpeaks there directly of Authority, of men only in ſubordination to that Authority; no further than as the executioners of that power, becauſe it is impoſſible Authority ſhould be exerciſed, but where men are to manage it. The Apoſtle in that place re<g ref="char:EOLhyphen"/>quires ſubmiſſion to legall Authority,<note place="margin">It is not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> by whomſoever executed, not to any men commanding by an illegall power.</p>
+            <p>
+               <hi>Higher powers</hi> are there expreſſed indefinitely, not pointing at any particular go<g ref="char:EOLhyphen"/>vernment: In a Monarchy, an Ariſtocracy, a Democracy, the people under the ſe<g ref="char:EOLhyphen"/>verall conſtitutions may, yea muſt, by the Apoſtles command obey the higher pow<g ref="char:EOLhyphen"/>ers, thoſe who by their legall conſtitution are in Authority, not in power, over them: there is a law of nature, that will make man obey a power if he cannot re<g ref="char:EOLhyphen"/>ſiſt, but the injunction of the Apoſtle (there) is only to lawfull Authority. I beleeve the Authour of that Book knows, that thoſe only can be the higher powers, or legall Authority of any Kingdom, which the conſtitution of that Kingdom makes ſuch, and that only can exact obedience according to the Scripture rule. Now what the Higher powers of <hi>England</hi> are, by the conſtitution of this Kingdom, is ſufficiently known.</p>
+            <p>The Apoſtle commands wives to ſubmit to their husbands, <hi>Epheſ.</hi> 5.22. ſurely the injunction is for obedience to husbands, <hi>quà</hi> husbands, not <hi>quà</hi> men, indeed not abſtracted from their perſons,<note place="margin">Eph. 5.22.</note> becauſe it is impoſſible the authority of an husband ſhould be ſubmitted to, where a man is not to exerciſe it: But ſhould a ſtranger come to anothers wife, and call himſelf husband (having before either impriſoned or ſlain the rightfull husband) and require ſubmiſſion, I ſcarce think the Authour himſelf (eſpecially if he be married) would preſſe for obedience to ſuch an uſurped power: ſuch a woman may be forced, and overpowr'd, but to ſubmit to him as an husband, were a ſinne.</p>
+            <p>What is there urged as the great argument to prove the lawfullneſſe of obedience to the preſent Government, hath been my main deſwaſive <hi>(viz.)</hi> the Apoſtles com<g ref="char:EOLhyphen"/>mand to <hi>obey higher powers for conſcience ſake:</hi> Had I been convinced that the King in his perſon had been the <hi>higher powers</hi> of <hi>England,</hi> and that his perſonall command had by the Apoſtles rule exacted undeniable obedience, although he had been viſibly acting what we ſuſpected, and palpably introducing what we feared, I ſhould
+<pb n="3" facs="tcp:117224:2"/> have ſubmitted for conſcience ſake. The great inducement I had to adhere to the Parliament, was (beſides the hopes of better reformation) that thorow conviction that lay upon me, both by mine own reaſon, and Parliamentary practices, that the two Houſes of Parliament, in caſe of the Kings abſence, weakneſſe or refuſall, had in them ſuch a part of the <hi>higher powers,</hi> and ſupream authority, as to defend, and pre<g ref="char:EOLhyphen"/>ſerve the people without, yea againſt the King, doing, commanding or exa<g ref="char:EOLhyphen"/>cting any thing beſides or againſt the law. And this is that main block, at which I ſtumble in yeelding obedience to this new power, becauſe I am yet convinced, that they are not the <hi>higher powers</hi> of our Kingdom, to which the Apoſtle requires obedience.</p>
+            <p>I acknowledge a government may be altered (although I think it not ſafe, but up<g ref="char:EOLhyphen"/>on urgent and evident neceſſity) to which being altered obedience is required, but it muſt be done by the <hi>higher powers</hi> ſtill, whom we ought equally to obey in ſub<g ref="char:EOLhyphen"/>mitting to an altered, as a continued form; but for any party by force to lay low the <hi>higher powers,</hi> and to exact obedience as to the legall Authority, is to me a ſinne.</p>
+            <p>I am not ignorant what pleas there may be from inconvenience in ſuch a do<g ref="char:EOLhyphen"/>ctrine, but according to the light I have, where lawfull or unlawfull are in queſtion,<note place="margin">
+                  <hi>Rom. 13.1.</hi> Pag. <hi>2.</hi> Diſcernendum eſt inter pote<g ref="char:EOLhyphen"/>ſtate<g ref="char:cmbAbbrStroke">̄</g> quoe ſem<g ref="char:EOLhyphen"/>per eſt a Deo, inter acquiſiti<g ref="char:EOLhyphen"/>onem &amp; uſur<g ref="char:EOLhyphen"/>pationem. <hi>Paraeus</hi> in <hi>Ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 13. Hoſ. 8 4.</hi> Subditis merè privatis, ſi Ty<g ref="char:EOLunhyphen"/>rannus tanqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> latro in ipſo faciat impetum &amp; ipſi nec po<g ref="char:EOLunhyphen"/>teſtatem ordi<g ref="char:EOLhyphen"/>nariam implo<g ref="char:EOLhyphen"/>rare, nec aliâ ratione effug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>re periculum poſſint in pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſenti periculo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; ſuos contr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tyrannum ſic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> contra privat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> graſſatorem d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fendere licet. <hi>Paraeus</hi> in <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> their convenience and inconvenience muſt keep ſilence.</p>
+            <p>It is to be obſerved what is ſpoken by the Apoſtle in the ſame place, <hi>the powers that are, are ordained by God:</hi> to which in the ſecond page of the book is a little ad<g ref="char:EOLhyphen"/>dition, <hi>viz. Rulers and thoſe that were in authority were ordained of God:</hi> the Scripture enjoins obedience to powers, to men only as intitled to thoſe powers: the autho<g ref="char:EOLhyphen"/>rithy was ordained by God, not the Rulers, they were conſtituted by men, the pow<g ref="char:EOLhyphen"/>er may be Gods Ordinance, when the deputing of perſons to the exerciſe of that power may be (at moſt) but Gods permiſſion: nay, that men in Authority (Rulers in the Apoſtles expreſſion) are to be obeyed no further then as acting according to that Authority, is the judgement of one much uſed by the compoſer of that book. When a Tyrant ſhall offer violence to his private Subjects<g ref="char:punc">▪</g> which they can by no other means avoid, they may defend themſelves and theirs againſt that Tyrant as againſt a thief; when are men properly called tyrants, but when they either uſurp or exerciſe a power contrary to the law and uſage of thoſe places where they rule? when a conſciencious obedience is required to the Authority, but not to thoſe, who by their own will, or procured force, either uſurp or exerciſe a power beſides that Authority.</p>
+            <p>Should we grant that men aſſuming to themſelves the place and power of Magi<g ref="char:EOLhyphen"/>ſtrates, by what right or means ſoever they came by it, muſt be obeyed, ſurely it would be the greateſt inlet to tyranny in the world, and the ſpeedieſt means of deſtroying ſtates that could be invented: for then ſhould none govern in any King<g ref="char:EOLhyphen"/>dome any longer, then their ſwords and their ſtrength could bear them up.</p>
+            <p>Thus much I ſhall yeeld, That when any ſhall uſurp Authority, by whatſoever title or force he procures it, ſuch may be obeyed in reference to their power, while they command lawfull things, but not in reference to Authority: A man being overpower'd may yeeld for his own ſafety, but to ſubmit to that uſurp'd power, as
+<pb n="4" facs="tcp:117224:3"/> to the legall Authority of that Kingdome where it is,<note place="margin">Rev. 22.15.</note> is to aſſert that as lawfull, which is but uſurp'd, and in the Scripture language <hi>to make a lie.</hi>
+            </p>
+            <p>From this I ſhall take a juſt occaſion to ſpeak to thoſe inſtances there urged, from obedience to whom, the argument is drawn to prove the lawfullneſſe of our ſub<g ref="char:EOLhyphen"/>miſſion now.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 2, 3.</note>Concerning <hi>Claudius Caeſar</hi> and <hi>Nero</hi> which are mentioned, <hi>pag.</hi> 2, 3. how they came in by force, yet were obeyed by the people, I ſhall not trouble my ſelf nor the Reader with any taedious ſearch into, or large recitall of the ſtory, but take it as there laid down, and give a brief anſwer to it.</p>
+            <p>But before I fall upon a plain anſwer to what is there fallaciouſly urged, and ſhew the inſufficiency thereof to prove that for which it is aſſerted: I conceive there will appear ſuch a diſproportion between the quoted inſtances and our preſent caſe, that ſhould we grant all the premiſes, yet the concluſion would not directly follow to prove the queſtion. The moſt that can be aſſerted from thoſe examples is, That people did obey a ſupream power as exerciſed by thoſe who had no true (at leaſt but a dubitable) title, when the ſame form of government was ſtill continued, for ſo it had been for many years before, during the reign of<note n="a" place="margin">Iulius Caeſar. Auguſtus. Tiberius Caius Caligula</note> 4 Emperours, yea, ſuch a government which was the priſtine conſtitution of that place, it being Monar<g ref="char:EOLhyphen"/>chicall for above<note n="b" place="margin">Principio Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es ibi ſeptem <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mperarunt, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ducenti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inta <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uatuor. <hi>Sl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an.</hi> de <hi>4.</hi> Mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arch.</note> 440. years, till <hi>Tarquinius,</hi> about the buſineſſe of his ſon with <hi>Lucretia,</hi> was rejected. Whether party had or pretended moſt right, and the beſt ends in their changing of the goverment, either <hi>J. Brutus</hi> from, or <hi>Julius Caſar</hi> to Monarchy, I ſhall not diſpute: nor ſhall I decide, whether God might not juſtly give them to ſee the evill of a change, who (it may be) chiefly out of a deſire of change, would wholly alter a conſtituted form. But this is not our caſe: The in<g ref="char:EOLhyphen"/>ſubmiſſion of people now, is not grounded upon a ſuggeſted ſcruple of a dubious title to the ſame, but upon an apprehended illegality of the new and needleſſe eſta<g ref="char:EOLhyphen"/>bliſhment of another government: It is one thing, and as in it ſelf more lawfull, ſo to people leſſe ſcrupulous, upon a pretended title to uſurp the exerciſe of an eſta<g ref="char:EOLhyphen"/>bliſhed Authority: another, and as in it ſelf leſſe juſt, ſo to people more doubtfull upon pretended apprehenſions to eradicate a lawfull Authority, and illegally to lay low thoſe which legally are the higher powers of a Kingdome: In the one, people leſſe able to examine titles, ſubmit to the eſtabliſhed government of that Kingdom where they are, and this is ſufficient to yeeld obedience, that they know not who hath the right: In the other, they muſt give themſeves up to a new-faſhioned mo<g ref="char:EOLhyphen"/>dell illegall to them, becauſe not the conſtituted powers of that place, and this is enough to withold Allegiance, that they know ſuch have not (nor pretend) a Title.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 1.</note>Now to the inſtances themſelves, to ſee how farre they prove the lawfullneſſe of our ſubmiſſion <hi>to a change of government, although the change be beleeved unlawfull.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ag.</hi> 2, 3.</note>
+               <hi>After the death of</hi> Caius Caligula, <hi>the Conſuls and Senate of</hi> Rome <hi>entred in<g ref="char:EOLhyphen"/>to to a conſultation, how they might reſtore the Common-wealth to her ancint free<g ref="char:EOLhyphen"/>dom,</hi> I think this argument will take in all that is therein ſpoken: if the peo<g ref="char:EOLhyphen"/>ple of the Roman Empire did ſubmit to the power of <hi>Claudius</hi> and <hi>Nero,</hi> who by
+<pb n="5" facs="tcp:117224:3"/> force were put upon them, then the people of <hi>England may lawfully ſubmit to a change of government, though beleeved unlawfull:</hi> but they did ſubmit, therefore theſe may, I will finde no fault with the Syllogiſme, becauſe it is of mine own making, although it be the very ſumme of what is urged: what aequivocall terms there are whereby a ſpirituall eye would quickly ſee four terms (at leaſt) in it I ſhall diſcover in mine anſwer to the ſeverall propoſitions.</p>
+            <p>In the firſt Propoſition, it being hypotheticall, I ſhall deny the conſequence: For 1. A People may poſſibly do what is not in it ſelf lawfull either for themſelves or others to do, <hi>a facto ad jus non valet argumentum,</hi> had the author proved their ſub<g ref="char:EOLhyphen"/>miſſion legall, it had been more urgent. Indeed it is ſaid at the end of that para<g ref="char:EOLhyphen"/>graph,<note place="margin">
+                  <hi>Pag.</hi> 4.</note> 
+               <hi>We ſee Rulers put by ſouldiers into that power which is ſaid by the Scripture to be ordained of God, and even to theſe Rulers men muſt be ſubject for conſcience ſake.</hi> But the Apoſtle doth not command obedience to theſe men, but to the <hi>powers,</hi> nay not to any men, but as commanding according to thoſe <hi>powers</hi> (as was ſaid before) nor is it materiall who put men in, nor what men are put into <hi>powers,</hi> if they are the <hi>powers that are ordained of God:</hi> thoſe that command according to that Authority, muſt be obeyed: and whatſoever the ſouldiery of <hi>Rome</hi> did, had the ſouldiery of <hi>England</hi> (in this tacitely pleaded for) obſerved that doctrine be<g ref="char:EOLhyphen"/>fore, we had not been (I think) diſputing this queſtion now. But 2. What might be lawfull for the people in the Roman Empire, may not be lawfull for the people of this Kingdome: I finde not in any Hiſtory that ever they were ſworn to a par<g ref="char:EOLhyphen"/>ticular government as we have been: Things in themſelves indifferent are made neceſſary, when by an oath engaged to. But of that more afterward.</p>
+            <p>To the Minor propoſition, I ſhall ſay 1. That thoſe mentioned had (at leaſt ſeeming) titles to the Empire. Indeed it is agreed by all Hiſtoriars I have met withall, that they were firſt encouraged by ſouldiers: but what iniquity is in that, if they might pretend a Title? The very end of power and ſtrength is or ſhould be to conſerve and recover juſt right, we have alwaies acknowledged it lawfull and expedient by force of Arms to acquire a rightfull poſſeſſion illegally detained; But I could wiſh that this ſtory had been printed and read by the ſword-men in this kingdome five moneths agoe, that they might but have thought whether it had been greater honour to be recorded as men, that ſhould guard a King of a doubtfull title to the Crown, or to be ſtoried as men that ſhould bring a King of an indubitable right to the Scaffold.</p>
+            <p>I will not here diſpute by what title, or according to what law <hi>Julius Caeſar,</hi> nor yet his ſucceſſour <hi>Octavius</hi> aſſumed the Empire, but when that government and thoſe governours were received, and acknowledged by the Senate, it became law<g ref="char:EOLhyphen"/>full to that people. Although Conqueſt be no true Title, nor durable tenure any longer then ſtrength can keep it, yet compact upon that Conqueſt, gives a title to the Conquerour, and engageth ſubmiſſion from the other party to thoſe rules re<g ref="char:EOLhyphen"/>ſolved on at, or given out according to that agreement.</p>
+            <p>
+               <hi>Tiberius</hi> from whom indeed both <hi>Claudius</hi> and <hi>Nero</hi> had their government,<note place="margin">Tacitus Anna. lib. 1.</note> did not only for a great part of his time, do all he did by the adviſe of the Senate, but would (at leaſt ſeemingly) be choſen by the Senate, as not contented ſecretly to
+<pb n="4" facs="tcp:117224:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:117224:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:117224:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:117224:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:117224:6"/> ſtep into a government either by the earneſt engagement of his mother,<note place="margin">Tiberius Augu<g ref="char:EOLhyphen"/>ſti Octaviij pri<g ref="char:EOLhyphen"/>vignus &amp; ge<g ref="char:EOLhyphen"/>ner, &amp; filius adoptivus ad<g ref="char:EOLhyphen"/>modum invi<g ref="char:EOLhyphen"/>tus, ut prae ſe ferebat, &amp; vix tandem exora<g ref="char:EOLhyphen"/>tus a ſupplice Sena<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u princi<g ref="char:EOLhyphen"/>patum accepit. <hi>Slerdam.</hi> de <hi>4.</hi> Monarch. Tiberius max<g ref="char:EOLhyphen"/>imos dolores &amp; gemitus ſimula vit principatu<g ref="char:cmbAbbrStroke">̄</g> tanquam onero<g ref="char:EOLhyphen"/>ſam ſervitutem recuſans. <hi>Pezel.</hi> Mel. Hiſtor. par. <hi>2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Pezel,</hi> Mel. Hiſt. part. <hi>2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Tacitus</hi> Annal. <hi>lib. 12.</hi> Pag. <hi>3.</hi>
+               </note> or by the fond adoption of <hi>Auguſtus,</hi> but would have the call and election of the Com<g ref="char:EOLhyphen"/>mon-wealth too: now here ſurely was a lawfull title, if the conſent of the people could make it lawfull, although (it may be) not in it's firſt acquiſition, yet in it's after eſtabliſhment: and <hi>Claudius</hi> deriving his title from him, why ſhould not peo<g ref="char:EOLhyphen"/>ple obey it? yea, me thinks the Authour of that book intimates a title that <hi>Claudius</hi> had, where he ſaith, <hi>pag.</hi> 3. <hi>Claudius being frighted with the news of</hi> Caligula's <hi>death, and fearing himſelf might be enquired for, upon ſuspicion withdrew:</hi> had not he been the heir apparent to the Empire, what ground of fear, or what cauſe of withdraw<g ref="char:EOLhyphen"/>ing? nay, if he had not been looked on as the rightfull ſucceſſour, why ſhould the ſouldier <hi>primo intuitu</hi> ſalute him by the name of Emperour?</p>
+            <p>For <hi>Nero</hi> he deſcended in a direct line on the mothers ſide, from <hi>Livia Auguſtus</hi> his wife, and although <hi>Brittanicus</hi> was the naturall ſon of <hi>Claudius,</hi> yet <hi>Nero</hi> (by <hi>Agrippina's</hi> means) was his adopted ſon for the Empire, and brought to the Senate, where it was conſented unto, that he ſhould have his <hi>togam virilem,</hi> and he called Prince of youth: it being their uſage, as far as I have obſerved in the ſtory, that an Adoptive title aſſented to by the Senate, hath commonly been acknowledged, when a lineall ſucceſſion hath been rejected: yea, the Authour ſeems to grant a kinde of title to <hi>Nero</hi> too, where it is ſaid, <hi>pag.</hi> 3. that <hi>the ſentence of the ſouldiers was followed by the conſent of the Senate:</hi> if the Senate had any ſhare in either conſtituting or de<g ref="char:EOLhyphen"/>claring a King, <hi>Nero's</hi> title was hereby eſtabliſhed.</p>
+            <p>But what is this to our caſe? A rightfull or doubtfull heir was brought by ſouldi<g ref="char:EOLhyphen"/>ers to the Senate, who among themſelves were contriving to alter their govern<g ref="char:EOLhyphen"/>ment: This heir was received by the Senate, and upon that ſubmitted unto by the people: But doth the Authour think that if the Senate had declared and acknowled<g ref="char:EOLhyphen"/>ged, yea, promiſed to preſerve the Title of a rightfull Prince, and the ſouldiers by the advice, counſell, or aſſiſtance of ſome party in this Senate, ſhould impriſon or ſlay their Prince, and take away the Major part of the Senate, only becauſe againſt their actings, and this minor part relict ſhould alter their government, yea, make themſelves without the conſent of the people their Rulers, that then the people would or lawfully could have ſubmitted to them as their legall and rightfull gover<g ref="char:EOLhyphen"/>nours, nay, would not rather have reſiſted them, as not being thoſe higher powers, whom they ought <hi>for conſcience ſake to obey?</hi>
+            </p>
+            <p>Indeed had the King for ſome reaſon hid himſelf (as <hi>Claudius</hi>) or for other rea<g ref="char:EOLhyphen"/>ſons abſented himſelf, and the two Houſes of Parliament legally elected, and freely ſitting (at ſuch a time eſteemed) the <hi>higher powers,</hi> contrived a way for the altering the government, although I ſhould not have proclaimed their wiſdome, yea, ſhould have bewailed their ſin, in reſpect of the many ties and bonds of Declarations and Oaths upon them, I think I ſhould have ſubmitted to their power, yet I would not for my Oath's ſake (had I liked the thing) have acted in it. In which I think I yeeld more then many Anti-Malignant men in <hi>England</hi> will do: yet how far from our caſe this is, what hath been ſpoken will teſtifie.</p>
+            <p>But 2. Had the inſtance been of <hi>Julius Caſar,</hi> who by meer force and violence, without the leaſt pretence of Title acquired the government, which had better ſui<g ref="char:EOLhyphen"/>ted
+<pb n="7" facs="tcp:117224:6"/> our buſineſſe, yet I ſhould ſay, that what ſubmiſſion the people yeelded, and what commands he gave, were in relation to a power which he by force had gotten, and did exerciſe without any pretence to a legall conſtituted power, till received and acknowledged by the Senate.</p>
+            <p>I confeſſe ſhould theſe Rulers now in our Kingdom command ſubmiſſion to them, as to a conquering party, and acknowledge they did by power exerciſe, what by force they had gotten, I ſhould in that ſenſe ſubmit to them, becauſe not able to defend my ſelf againſt them: but they call themſelves the legall Authority, and <hi>higher powers</hi> of <hi>England,</hi> under which notion I cannot ſubmit, becauſe poſi<g ref="char:EOLhyphen"/>tively to obey what is thus commanded, whatſoever ſecret reſervation I may have, I doe and muſt aſſert their power as lawfull, and their Authority as the legall Authority.</p>
+            <p>By this I ſhall fitly deſcend to thoſe inſtances of our Nation,<note place="margin">
+                  <hi>Pag.</hi> 4, 5.</note> to which what hath been already ſpoken, will give <hi>(me judice)</hi> ſufficient anſwer: For</p>
+            <p n="1">1. What ſubmiſſion was given to the Conquerour, was yeelded as to a forc'd power, untill by after-compact it was acknowledged and made legall.</p>
+            <p n="2">2. What was practiſed by the ſucceſſors mentioned (beſides the acknowledged force in their unrightfull acquiſitions, and violent exerciſe of power) it was only upon difference of Title, <hi>which people may not be able to judge of,</hi> as the Authour ſaies,<note place="margin">
+                  <hi>Pag.</hi> 9.</note> 
+               <hi>pag.</hi> 9. but amongſt us, here is an alteration of government, where a change only ſeems to be aſſerted, no Title at all pretended.</p>
+            <p n="3">3. What is ſpoken of <hi>Hen.</hi> 7.<note place="margin">
+                  <hi>Pag.</hi> 5.</note> may be enough to anſwer the argument drawn from him and the reſt too. Although the Title might be unjuſt, and the power illegally gotten, yet when the Title was acknowledged, at leaſt, confirmed by Par<g ref="char:EOLhyphen"/>liament, and the Laws whereby he (or they) ſhould rule, were enacted in a Par<g ref="char:EOLhyphen"/>liament, that did engage the people to an unqueſtionable obedience, the conſtituted <hi>higher powers</hi> then commanding, to whom the Apoſtle requires obedience: for al<g ref="char:EOLhyphen"/>though a Parliament (ſuch I mean, which by the known law and continued u<g ref="char:EOLhyphen"/>ſage of the Kingdom as a Parliament) ſhould acknowledge or do any thing civilly evill (I mean in reference to the State) it is lawfull and juſt in reſpect of the people, and engageth obedience, which I think will be a ſufficient excuſe for peoples <hi>yeelding obedience to their laws,</hi> not only becauſe then enacted, but ſince confirmed by <hi>the higher powers of our Nation:</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 6.</note> although in the mean time upon the ſame ground they reſt <hi>unſatisfied</hi> in the lawfullneſſe of ſubmiſſion to the preſent power.<note place="margin">
+                  <hi>Pag.</hi> 6. <hi>Pag.</hi> 6.</note>
+            </p>
+            <p>I might adde, that what <hi>the whole body of a Nation did, if illegall, doth not engage our practice:</hi> for we know Papiſts (and ſuch they were all who ſubmitted to the fore-mentioned Rulers) make no conſcience of denying a rightfull Title, nor yeelding to an illegall power, when they may but probably carry on their own de<g ref="char:EOLhyphen"/>ſign: but what is ſpoken already will ſatisfie, and I had rather give a rationall anſ<g ref="char:EOLhyphen"/>wer, then queſtion the wiſdome or honeſty of Anceſtors, where it may be a<g ref="char:EOLhyphen"/>voided.</p>
+            <p>What is urged from the Caſuiſts and <hi>Paraeus</hi> (although I am not bound <hi>jurare in verba,</hi> being of D<hi rend="sup">r</hi> 
+               <hi>Moulins</hi> his minde,<note place="margin">
+                  <hi>Pag.</hi> 6, 7.</note> rather to like one argument then ten Au<g ref="char:EOLhyphen"/>thours) I ſhall agree to in that ſenſe, in which I conceive they delivered it, to
+<pb n="8" facs="tcp:117224:7"/> ſubmit to ſuch power as forced, not to their Authority as legall, unleſſe it be ſuch an Authority which by conſtitution and uſage are the <hi>higher powers of our Kingdom.</hi>
+            </p>
+            <p>The Authour after the example of others, proceeds now to give ſome reaſon of his own, which I ſhall alſo endeavour to examine, and ſo far as they carry ſtrength and truth (as leaſt to me) ſhall ſubmit: where otherwiſe, I ſhall give mine on the contrary.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 7.</note>
+               <hi>Indeed how can it be otherwiſe? For when a perſon or perſons have gotten ſupream power, and by the ſame excluded all other from Authority, either that Authority which is thus taken by power muſt be obeyed, or elſe all Authority muſt fall to the ground.</hi> Per<g ref="char:EOLhyphen"/>ſons may indeed get themſelves the greateſt ſtrength, and in that ſenſe may be ſub<g ref="char:EOLhyphen"/>mitted to, but they cannot illegally get themſelves the legall power, nor can they exclude others from their Authority, although by force they may keep them from the exerciſe of it, A man may be a man, yea a living man, although by the violence of diſeaſe, he may be kept from outward actings. An husband may be a husband ſtill although impriſoned and thereby kept from the exerciſe of his duty to his wife. A Parliament may be a Parliament ſtill, although by violence kept from ſitting and executing their Authority. I am ſo far from thinking that <hi>diſobedience</hi> to ſuch <hi>power</hi> will make <hi>all Authority and government fall to the ground,</hi> that I beleeve ſubmiſſion to ſuch will quickly lay all Authority waſte: for by the ſame reaſon that we obey this altered government and uſurped authority now, we muſt obey any other ſud<g ref="char:EOLhyphen"/>denly, if another party get more ſtrength, and what an unſetled ſtate and unknown Authority we ſhould then have may eaſily be judged: nor do I think the Authour himſelf would be of the ſame minde, ſhould the Prince with a potent army get the power into their hands. Surely were this doctrine true, thoſe renowned men ſhall be raſed out of the Calendar for Saints, that oppoſed the Kings power in Ship<g ref="char:EOLhyphen"/>money: nor muſt ſuch be ſequeſtred who under the Kings power formerly did lend or give whatſoever he required, whether men, money, horſe or arms: nor theſe put out of the Parliament, who obeyed him in ſitting at <hi>Oxon:</hi> nay, nor himſelf neither put to death for doing what was urged againſt him, if men in power how<g ref="char:EOLhyphen"/>ſoever they come by it are Rulers ordained by God, and to be obeyed for <hi>conſci<g ref="char:EOLhyphen"/>ence ſake.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 7.</note>
+               <hi>If Confuſion be worſe then titular Tyranny,</hi> I wiſh that ſeeing we had no titular tyranny, we had had no confuſion neither: and I ſhould be glad that confuſion may befall (if any) only ſuch, who in this Kingdome have been the greater introducers of it, either thoſe who acquire and aſſert, or thoſe who cannot receive or ſubmit to an uſurped government:<note place="margin">
+                  <hi>Pag.</hi> 8.</note> for although the <hi>end muſt not be deſtroyed for the means,</hi> yet he that deſtroies the means in it's tendency to the end, will ſcarcely preſerve the end at laſt.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 8.</note>
+               <hi>If a Maſters mate had thrown the Maſter over-board, and by power would ſuffer no other to guide the ſhip but himſelf, if the mariners will not obey him commanding aright for the ſafe guiding of the ſhip, the ſhip muſt needs periſh, and themſelves with it.</hi> I doubt here is a fallacy, and this caſe will not concern our queſtion, for I ſuppoſe, although I am not ſo well skilled in the diſcipline of marriners, as to know that a Maſters mate hath a kinde of Title to the government of the ſhip in caſe of the Maſters miſ<g ref="char:EOLhyphen"/>carriage,
+<pb n="9" facs="tcp:117224:7"/> which ſuits not our condition: But ſuppoſe him to have no title, or ſtate the queſtion ſomewhat nearer our caſe, That if a party of the Sea-men ſhould throw the Maſter over-board, and aſſume to themſelves the government of the Ship: I ſhall then anſwer, That if that Mate or this party having the greater ſtrength, ſhould by power enforce and exact obedience of the reſt, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ought for the ſafety of their own lives, although not to obey the Authority, yet to do the commands of the enforcing party, and if ever they come aſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, to doe what they can to bring ſuch unworthy perſons to condigne puniſhment, who, beſides the murder of the Maſter, would ſo baſely hazard the ſhip too; But if th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or party ſhould command the Sea-men to obey them as the rightfull Maſter, I think (although with ſubmiſſion to better judgements) they ought nor, although for the ſafety of their lives thus to obey them. It is better to loſe a naturall life, then a quiet conſcience, and a ſpirituall ſoul: The greateſt advantage will not warrant the leaſt evil. In ſuch a caſe it would eaſily be judged both by God and men, to whoſe fault the loſſe of the ſhip ſhould be imputed, either to them that did unjuſtly require, or thoſe who dared not unwarrantably to do an unlawfull thing. I know not what the ſodain fear of unavoidable death might make ſuch men <hi>(de facto)</hi> do, and I can eaſily think what harſh cenſures their hazarding or <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſing their lives upon ſuch refuſall, may bear from raſh and leſſe conſiderate men, as an empty product of meer peeviſhneſſe: but I am confident that a Synod of reli<g ref="char:EOLhyphen"/>gious and intelligent Divines would conclude, that <hi>(de jure)</hi> they ought rather to ad<g ref="char:EOLhyphen"/>venture the loſſe of all, than call him a lawfull, who is but an uſurped maſter, which they muſt by yeelding to his or their commands under that notion.</p>
+            <p>Whereas <hi>ſome speak of a time for ſettlement,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>they indeed do rather speak for a time of unſettlement, for they will have an unſettlement firſt and a ſettlement after.</hi> If I miſtake not the deſires of thoſe who withhold ſubmiſſion to the preſent power. the Authour of that Book is miſtaken in his apprehenſions of them: That they deſire a ſettlement (I think) is true, but that they deſire an unſettlement firſt, is beſides my thoughts of them; I know it is the grief of their ſouls, and cauſeth ſad ſearchings of heart, that ever they were brought into ſuch unſettlements, and thereby put upon ſuch racks of conſcience as theſe are. It is not unſettlement but a deliverance from unſettlement they long for: I ſcarce ſee how we can be more unſetled then now we are: Indeed being unſetled, we would uſe my means for a ſettlement, although for it's procurement our unſettledneſſe were more unſet<g ref="char:EOLhyphen"/>led; If a man be at the rivers brink, I would adviſe him to keep out of the water, but if at once he leap into the middle of the river, I ſhould perſwade him to come to the bank, although he wade through much water to come thither: I would counſell a man to prevent diſtempers, but when the diſeaſe is already contracted I ſhould preſcribe ſome Phyſick for the ſafety of his life, although for the preſent it ſhould more diſeaſe him.</p>
+            <p>What is ſpoken of the former Scriptures and Caſuiſts in the ſame Page, I ſhall refer to what was before anſwered.</p>
+            <p>But it is asked: <hi>Whether that may not be called a ſettlement,</hi>
+               <note place="margin">Pag. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 
+               <hi>how ſoon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it is, when there is ſuch a way ſetled, that men may have juſtice if they will, and may <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>joy that main end of Magiſtracy, to live a peaceable life in godlineſſe and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</hi> To
+<pb n="8" facs="tcp:117224:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:117224:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:117224:9"/> ſpeak of what juſtice ſome have had at <hi>Weſtminſter,</hi> ſince the unſettlement of our times, or what to be expected, when Colonels appear as parties with their argu<g ref="char:EOLhyphen"/>ments by their ſides before Committees, (an argument too often uſed in the Houſe too, as I beleeve the Gentleman knows,) where to engage a buſtling daring Colonell is to carry a cauſe: as alſo what peaceable lives men live, when the ſouldiers ha<g ref="char:EOLhyphen"/>ving put other men in power in the State, put themſelves in command in mens houſes: and what godlineſſe and honeſty may be looked for, when blaſphemy muſt be tolerated,<note place="margin">
+                  <g ref="char:V">Ʋ</g>t judicium ſit actus juſtitiae, requiritur ut procedat ex authoritate praeſidentis: quando homo judicet de his de quibus non ha<g ref="char:EOLhyphen"/>bet authoritate<g ref="char:cmbAbbrStroke">̄</g> dicitur judiciu<g ref="char:cmbAbbrStroke">̄</g> uſurpatum. <hi>Aquin. 22.</hi> Q. <hi>60</hi> cap. <hi>2.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> wickedneſſe muſt not be puniſhed, when in the mean time godly men (if but of a contrary judgement, a liberty of conſcience formerly plead<g ref="char:EOLhyphen"/>ed for) are made offendors for a word, would be too large a field to walk in, and beſides the ſwelling of this tract, but give too wide an occaſion to further con<g ref="char:EOLhyphen"/>teſts. But this ſhall ſuffice, that the gentleman a little begs the queſtion in cal<g ref="char:EOLhyphen"/>ling it juſtice, for although men may have, or might expect, what he cals juſtice, <hi>viz.</hi> things in themſelves juſt, yet if he grant, as I have proved, that Authority illegall by which they act, what they do or is done by any under that Authority, although in it ſelf juſt, yet is not properly juſtice: Judgement (for I conceive the Authour means <hi>juſtitiam diſtributivam</hi>) is then only juſt, where it is exerciſed by the <hi>higher powers,</hi> the legall Magiſtracy of that Kingdome where it is acted. The Hebrews expreſſe juſtice by that word, which they likewiſe uſe for the uſage and cuſtome of that people, that are concerned in it.</p>
+            <p>
+               <note place="margin">Exod 21.9. &amp; Joſh. 6.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note>Another argument the Authour uſeth is, becauſe <hi>People cannot judge of Titles:</hi> when they cannot judge, then an uſurped Title is true to them, and will exact obedience: but if this be an Argument, then (for <hi>contrariorum eadem eſt rati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) when Titles are viſibly unlawfull, people are diſingaged from obedience. This is our caſe, where there is not any pretence of Title.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 9.</note>But ſome ſay, <hi>There are Oaths that juſtifie diſobedience to the preſent government:</hi> There are indeed ſeverall Oaths that engage us to the continued obſervance of our formerly eſtabliſhed government, and then how far they juſtifie diſobedience to this, let the Authour judge. <hi>That Oaths are ſacred bonds and reverend oblige<g ref="char:EOLhyphen"/>ments, and where they do not themſelves leave or make us free, we are not to cut or break them in peeces:</hi> I ſhall equally aſſert, and could heartily wiſh it had been as truly practiſed in the Kingdome as plainly ſpoken in the book: But ſeeing there are indeed (as the Authour affirms) <hi>concerning theſe,</hi>
+               <note place="margin">
+                  <hi>Pag</hi> 9.</note> 
+               <hi>faults on both hands,</hi> let us a little examine the faults he mentions, and ſee whether there are not other faults too, that he ſpeaks not of.</p>
+            <p>
+               <hi>On the one ſide the ſlieghting of an Oath,</hi> &amp;c. This is a fault indeed: Oaths and Covenants are the ſtrongeſt engagements, whereby we can binde our ſelves either to God or man, if theſe come once to be ſleighted and no longer obſerved, then they may conduce to the palpable advantage of thoſe that made them, I am afraid that may juſtly be written upon the door-poſts of <hi>England,</hi>
+               <note place="margin">Iſa. 11.1, 2.</note> what was ſet in the front of <hi>Davids</hi> ſong, <hi>Pſa.</hi> 12.1, 2.</p>
+            <p>I am loth to misjudge any perſon, whom I finde ſo modeſt, elſe I ſhould fear that this fault was purpoſely argued, the more ſecretly to inſinuate another, though not under the name of a fault:<note place="margin">
+                  <hi>Pag.</hi> 10.</note> It is ſaid, <hi>We finde ſome part of the Covenant to ſpeak of all the daies of our lives:</hi> as if ſome part had been but of a temporary engagement:
+<pb n="11" facs="tcp:117224:9"/> but if I miſtake not, the Covenant did in every part of it oblige us to a continued ob<g ref="char:EOLhyphen"/>ſervance of it: we did not ſwear conſtantly to keep this part, or that clauſe, but all our lives to keep this Covenant, which is known to comprehend every part of it.</p>
+            <p>
+               <hi>True it is, that the obligation of ſome things end, becauſe they can no longer be kept,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 10.</note> 
+               <hi>as that of the Kings perſon,</hi> &amp;c. I grant that the obligation of a people to any thing ends, when that thing obliged to, neceſſarily, and in its own nature ends; but if men ſhall by violence put an end to the thing, that thereby the obligation may end too, I doubt ſuch will be eſteemed by God as Covenant breakers; I do not think, that he breaks his Covenant, that doth not preſerve the Kings perſon, when he is dead; but I think he is guilty, that did not endeavour to preſerve it while he was living; had the Covenant, in that part, been obſerved then, for all that I know, it might have obliged now. A woman promiſeth to be faithfull to her husband ſo long as he lives, but if ſhe, out of love to another man, ſhall lay violent hands on her husband to end his life, that thereby ſhe might marry another, I beleeve ſhe would ſcarcely be thought to have performed her promiſe. A Tenant bargains with his Land-lord to pay him rent for his houſe, ſo long as he lives in it: but if he through malice ſhall pull down the houſe, that he cannot live in it, and thereby to extinguiſh his bargain, it may be eaſily thought what determination the Law would make in ſuch a caſe.</p>
+            <p>What is ſpoken here of the Kings perſon, might as well have been ſpoken of any other part of the Covenant: It is Covenanted to preſerve Religion, but if thoſe that made the Covenant ſhould by force extirpate, or by deceit undermine Reli<g ref="char:EOLhyphen"/>gion: would the Authour think himſelf or others diſingaged from that part of the Covenant, or rather look upon himſelf as bound to preſerve it, while it hath a being? If this liberty ſhould be given, no man would keep any Oath any longer, than he ſaw good, if it were in his power to put an end to that thing to which he is obliged. But let's ſee what faults are found on the other hand.</p>
+            <p>
+               <hi>But on the other ſide there are other faults: ſuch are the urging of an Oath or Co<g ref="char:EOLhyphen"/>venant againſt enemies, and not againſt friends in one and the ſame action.</hi> In this I am wholly of his judgement, and could wiſh that he had inſtanced in ſome things, whereby I might have gueſſed what aim he had taken, and againſt what he had le<g ref="char:EOLhyphen"/>velled it. As I would not have any unequally excuſed, who are equally guilty, ſo I would not have him free from blame, who imputes guilt to one, when another ſhall be connived at, or incouraged in the ſame thing.</p>
+            <p>In that clauſe of bringing Delinquents to condigne puniſhment: If the Covenant engage to bring one to puniſhment, that raiſed arms againſt the Parliament in <hi>Kent</hi> and <hi>Eſſex,</hi> why not another that raiſed arms againſt the Parliament in <hi>Oxon</hi> ſhiere and <hi>Berks</hi> ſhiere? If according to our Covenant we ſhould preſerve the priviledges of Parliament againſt a malignant party, that would have taken away but Five Members; why not againſt an Haereticall party that took away above two Hundred? If one party be charged as guilty in not obeying Orders of, but offering violence to the Parliament; why ſhould another be excuſed as faultleſſe, whoſe diſobedience was more manifeſt, and whoſe violence was more palpable? or if not altogether ſo,<note place="margin">
+                  <hi>Pag.</hi> 11.</note> yet (as the Authour) a ſlight and diminiſhing charge of
+<pb n="12" facs="tcp:117224:10"/> it upon one, and a vehement and aggravating charge of it upon the other.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 11.</note>
+               <hi>Another her fault may be, a ſtiffe inſiſting on one part, and a neglect or at leaſt ſilence in another part.</hi> This is not alwaies a fault, for when there is no occaſion given to ſpeak, ſilence is no evil; One part may be in more danger to be broken than ano<g ref="char:EOLhyphen"/>ther, when a more violent aſſerting, and ſtiffe contending for that part is more neceſſary. If I h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d two children, the one at home in ſafety, the other in immi<g ref="char:EOLhyphen"/>nent danger, that I were more earneſt and induſtrious for the ſaving and preſer<g ref="char:EOLhyphen"/>ving of this, doth not at all argue leſſe love or care to the other. But to take it in the beſt ſenſe, to pretend much care in the keeping of one part, and in the mean time, to neglect another, I think a fault. As when men are ſeemingly vi<g ref="char:EOLhyphen"/>olent againſt Popery and Prelacy, yet very indulgent to Hereſie and profaneſſe. When men ſhall plead Covenant in the preſervation of ſubjects liberties, yet for<g ref="char:EOLhyphen"/>get their Oath for the ſafety of the Kings perſon in the preſervation of Religion; which in reſpect of the Covenant are or equall concernment; for although it be pleaded by ſome, and granted by all that Religion, yea aſſerted by others, that the ſubjects liberties are of greater concernment than the Kings perſon, it muſt be <hi>ratione materia,</hi> not <hi>ratione juram<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nti,</hi> for in that regard, we are equally obliged to one as the other.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 11.</note>
+               <hi>As alſo when by event two parts of it came to be inconſistent, to chooſe and inforce the keeping of the higher and leſſe neceſſary part, and to give way to the loſſe and not keeping of the greater.</hi> Here is to me a <hi>falſum ſuppoſitum;</hi> I think it a ſinne in any to enjoin, and wickedneſſe in any to take a Covenant for the doing of two things that are or may be inconſiſtent; nor do I know what parts of our Covenant are ſuch; when the Authour makes ſuch appear, I ſhall bewail my ſinne in taking it. If it be by him meant, what is talked by others, <hi>(viz.)</hi> That the ſafety of the Kings perſon, and the preſervation of Religion are inconſiſtent, I muſt declare my diſſent in this; for I am yet convinced, that both the truth and honour of Religion might have better been preſerved by the ſafety of his perſon, and the continuance of our Government, than hitherto it hath been, or for all I ſee, like to be, by the al<g ref="char:EOLhyphen"/>tering of the one, or taking away of the other.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 11,</note>
+               <hi>There is another, in racking an Oath or Covenant, to make it speak that which it meant not.</hi> I will adde, there is another fault to ſtop the mouth of a Covenant, and denying it to ſpeak what it would. Nay, there is yet one more, when men ſhall put what interpretation upon Covenants they pleaſe, or reſerve to them<g ref="char:EOLhyphen"/>ſelves a power to make any other interpretation upon them, than what the com<g ref="char:EOLhyphen"/>mon and naturall ſenſe of the words in which they are taken doe afford. Oathes ought to be their own interpreters; we may deceive men, <hi>but God is not mocked.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 1, 1.</note>But to come to what I conceive is the main end of what hath been hitherto aſ<g ref="char:EOLhyphen"/>ſerted about Oathes; <hi>To conſider whether there be any clauſe in any Oath or Cove<g ref="char:EOLhyphen"/>nant, which in a fair and common ſenſe forbids obedience to the commands of the preſent Government and Authority.</hi> There is in the ſolemne League and Covenant, that which engageth to another Government, and then what forbids obedience to this? In one clauſe we ſolemnly Covenant to preſerve the Perſon, and not to di<g ref="char:EOLhyphen"/>miniſh the juſt Rights of the King; had his Perſon and juſt Rights been preſerved, this Government could never have been attempted; but ſeeing that card is bro<g ref="char:EOLhyphen"/>ken
+<pb n="13" facs="tcp:117224:10"/> 
+               <hi>(unhappy blow that ſtrook it aſunder!)</hi> is there yet no bond will hold us? yea; we do in the ſame clauſe faithfully promiſe to preſerve the Law of the Kingdom, and ſurely to change the Government is to alter the <hi>fundamentall</hi> Laws of the Kingdom; if we are bound to preſerve our Law, then that Government that is eſtabliſhed by Law; nay yet further, In the ſame place, we doe ſwear, yea and call the world to witneſſe it, that we will not diminiſh the juſt Rights and greatneſſe of the King: Is not a mans right as much concerned in his Heirs inheriting, as in his own enjoying what legally belong'd to him? Is it not a mans undoubted right to have his lawfull Heirs ſucceed him in his lawfull enjoyments? But now by this Government the Kings Heirs are wholly diveſted of any poſſeſſion, and abſolutely debarred of that right, which by the uſage of the Kingdom belongs to them.</p>
+            <p>
+               <hi>Much leſſe when no other can be had</hi> (as the Authour) I do not yet ſee impoſſi<g ref="char:EOLhyphen"/>bility in having another, truly I think, if the Covenant had been ſtrictly obſerved,<note place="margin">
+                  <hi>Pag.</hi> 11.</note> we had never had this, and if it were yet carefully performed, we might quietly have another Government, ſuch under which godly people might live with more comfort, and loſſe ſcruple.</p>
+            <p>
+               <hi>If it be ſaid that in the Oath of Allegiance, Allegiance is ſworn to the King,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 12.</note> 
+               <hi>his Heirs and Succeſſors. If his Heirs be not his Succeſſours, how doth that Oath binde? either the word Succeſſours must be ſuperfluous, or elſe it muſt binde Succeſſours as well as Heirs,</hi> &amp;c. If I ſhould grant that the word <hi>Succeſſours</hi> were ſuperfluous, it would not be the only ſuperfluous word in things of that nature; or that it is an <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>geticall expreſſion which is not unuſuall in all writings both Divine and pro<g ref="char:EOLhyphen"/>fane, the more fully to expreſſe the ſame thing by two words: <hi>His Heirs and Succeſſours are conjunctive,</hi> which muſt neceſſarily imply, that his <hi>Heirs</hi> according to the uſage of this Kingdom ought to be his <hi>Succeſſours:</hi> ſo that it can binde to no Succeſſours beſides the Heir: Indeed ſhould the Line extinguiſh, then the legall Succeſſour were to be obeyed by that Oath, and yet that too in the continuance of the Government, for he is not properly a Succeſſour, unleſſe in the ſame form of Government; for <hi>without asking Lawyers and Learned men,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 12.</note> he is properly a Suc<g ref="char:EOLhyphen"/>ceſſor, that ſucceede any man in the place where he was. If the Agitators in the Army ſhould depoſe the Generall, and order the Army according to their wills, would they be juſtly called his Succeſſours, when the frame of their Diſcipline were altered? This ſeems partly to be acknowledged by the Authour in the ſame page, where he inſtanceth only in thoſe for Succeſſours, which ſucceeded in the ſame Go<g ref="char:EOLhyphen"/>vernment, and ſaith <hi>that the word Succeſſour is taken for him that actually ſucceeds in Government,</hi> I conceive it muſt be meant, when the ſame form ſtill is con<g ref="char:EOLhyphen"/>tinued, elſe what he aſſerts, and the inſtances he names, would hold no pro<g ref="char:EOLhyphen"/>portion.</p>
+            <p>But there is one engagement to the former Government yet lies upon us in re<g ref="char:EOLhyphen"/>ference to our Oaths, which is mentioned either in that (before named) or in the Oath of Supremacy, <hi>That no power on earth ſhall deter or abſolve us from the keeping of it,</hi> If ſo, I would but humbly begge the Authour conſcienciouſly to judge, whether the force or fear of any party, were they ſtronger than they are, ſhould affright a people into a ſubmiſſion to any other Government, then that to which they have thus ſworn.</p>
+            <pb n="12" facs="tcp:117224:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:117224:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:117224:12"/>
+            <p>I may take the ſame liberty to propoſe a few ſhort, yet conſiderable Quaeres; <hi>While the Son is in the ſame poſture in which the Father was, how comes this Oath at this time to ſtand up,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 12.</note> 
+               <hi>and plead for diſobedience in regard of the Son, that was aſleep and ſilent in regard of the Father?</hi> I do not know in what one title this Oath is more urged for the Son, then it might have been, and was for the Father; unleſſe that now there is more need of preſſing it, becauſe in the Sons daies the Government is altered; in the Fathers, it was (at leaſt) promiſed to be continued. Thoſe, who were againſt the irregular actings, the Court-faults, the wicked Counſels of the Father, were for the ſafety of his perſon, the preſervation of his Rights, and the continuance of his Government: And now the ſame perſons that are for the Rights of the Son, and the continuance of the Government, are as much againſt the vices and counſels in and about him, as about the Father. Beſides it might be ſaid, that the Father was not oppoſed, untill there was a Parliament, that being the legall means in our Kingdom of reſiſting Arbitrary and extra-legall power; the King in the intervalls of Parliaments being the chief officer, not to be reſiſted by private ſubjects: And certainly I think, were there now a Parliament ſitting according to the conſtitution of <hi>England,</hi> and the Received to the Crown, ſhould act any thing againſt the known Law, and the kingdoms ſafety, thoſe who are now for the reception of the Son, and for the performance of their Oaths, would as truly and conſcienciouſly (according to their Covenant) join with them againſt the exorbitancies of the Son, as they did againſt the evil of the Father: only I beleeve they would expect ſome ſecurity, that his Perſon and rights (parts of the Cove<g ref="char:EOLhyphen"/>nant) ſhould be better preſerved and leſſe diminiſhed then his Fathers were.</p>
+            <p>Beſides what hath been ſpoken to the book, I might adde alſo one ſmall Quaere about altering the government: Whether in ſuch an alteration there is not neceſſa<g ref="char:EOLhyphen"/>rily required, either the generall conſent of the major part of the people, or at leaſt the major part of their truſtees? if ſo, what right have theſe men to do, who now act in it, ſome of them being the Truſtees of no people, having no election, others who were legally choſen denied their liberty? May not any number of peo<g ref="char:EOLhyphen"/>ple (there being no known Law nor conſtituted rule for this tranſaction) by the like reaſon conceive, and (if they have ſtrength) alter it again to morrow? But if they will (which is but equall) give them liberty of diſſenting from their government, whom they deny the liberty of delating or conſenting to it, I ſhall be free.</p>
+            <p>Whether there be any Scripture example or prudentiall rule unneceſſarily to op<g ref="char:EOLhyphen"/>preſſe, and, where it may be avoided, to rack the tender conſciences of unqueſti<g ref="char:EOLhyphen"/>onably godly men, not only when they are the major part, and moſt judicious Chriſtians (both of Miniſters and People) and moſt likely to know the truth, but when they are the leaſt ſtrong, and moſt diſcountenanced, and therefore un<g ref="char:EOLhyphen"/>likely to be byaſſed by any private Intereſts? Indeed thoſe who ſide with the ſtrongeſt party, lye under grounded ſuſpition of having particular ends, who can turn any way, to any party, where they may get the beſt places, the greateſt pre<g ref="char:EOLhyphen"/>ferments, and the largeſt rewards: ſuch many have received, and I beleeve more expect; for it is obſervable, that for the moſt part, your only Parliament converts before, are your greateſt Parliament Aſſertors now: But how a poor people deſ<g ref="char:EOLhyphen"/>piſed
+<pb n="15" facs="tcp:117224:12"/> and oppoſed by power, who can expect the conferment of nothing but pu<g ref="char:EOLhyphen"/>niſhment, ſhould deſign an intereſt in ſtanding to their principles, when they know (ſome of them at leaſt being very able and prevalent) they might upon their leaſt turning have as large a ſhare in the rewards of the Kingdom as thoſe who now enjoy the greateſt, is to me irrationall and improbable. The Apoſtle <hi>Paul</hi> would avoid a lawfull thing rather then offend the ſcrupling conſciences of weak brethrens what then is their fault, who do unlawfull things, and thereto engage the dijudi<g ref="char:EOLhyphen"/>cating conſciences of weak Chriſtians?</p>
+            <p>Whether both in humane probability, and religious reaſon, it were not more likely to conduce to Gods glory, to Religions ſettlement and honour, to Chriſti<g ref="char:EOLhyphen"/>ans union and ſatisfaction, to the Kingdoms peace, to the prevention of danger, and the ſafety of all (who have not wickedly out-acted all hopes of ſafety, and are conſcious to themſelves that their bucket muſt ſink, whenſoever Authorities bucket ſhall ariſe) to endeavour ere it be too late, to join Authority and Power, Title and Strength together; that as Power may arm Authority, and render it formidable, ſo Authority might juſtifie Power, and make that lawfull? Leaſt when the Title ſhall be claimed, thoſe who may diſlike the vices, and oppoſe any Tyranny (were they legally authorized) of the claimer, yet ſhould not <hi>for con<g ref="char:EOLhyphen"/>ſcience ſake</hi> deny his Right; and thoſe who could like well the pretenſions of our new Governours (were they juſtifiably managed) ſhould not adventure for Re<g ref="char:EOLhyphen"/>ligions ſake to aſſiſt their uſurpation: Whereby, as by our unwiſe actions, we have too much juſtified Malignants actions, and made them our deriders: we may ſtrengthen their hands, and make them our Maſters.</p>
+            <p>I am confident that if the great managers of our new-work, and the violent aſſertors of this changed Government would but ſeriouſly lay theſe things to heart, it might make them ſeaſonably retract, what they untimely attempted, and rather finde out waies to ſettle, then further unſettle the Kingdom, rather to ſatisfie then diſturb the peaceable conſciences of religious and unbyaſſed men <hi>(The Lord prevail upon their ſpirits.)</hi>
+            </p>
+            <p>Thus have I endeavoured to anſwer that with a meek,<note place="margin">
+                  <hi>Pag.</hi> 13.</note> which was writ<g ref="char:EOLhyphen"/>ten with a peaceable ſpirit, where I ſhall profeſſe (if I miſtake not my ſelf) to ſide rather with truth then with any party. What I have haſtily ſpoken I ſhall ſubmit to the deliberate judgements of more intelligent men: I ſhall be willing to receive a rebuke wherein I have erred, and ready to yeeld wherein I may receive ſatisfaction: I hope I have not diſcovered any turbulency of ſpirit, but a willing<g ref="char:EOLhyphen"/>neſſe to examine truth: As I would keep my conſcience from being wounded by doubtfull preſſures, ſo I would keep my tongue and pen from wounding others by imbittered expreſſions: I would not willingly give offence, I hope none will be taken. If it be lawfull for one man to propoſe, it muſt be lawfull for other to an<g ref="char:EOLhyphen"/>ſwer arguments, in reference to ſatisfaction. It would be too great a burthen to true Engliſh ſpirits, to ſee one man permitted to ſtand with a drawn weapon daring all that paſſe by, and he only faulty that takes up the weapons to anſwer him: either prevent ſuch darings, or elſe excuſe the provoked. It will be my comfort to give, it will be my advantage to receive ſatisfaction: howſoever, I ſhall commit my ſelf,
+<pb n="16" facs="tcp:117224:13"/> the ſafety of our Kingdom, the eſtabliſhment of ſuch a government that is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conducible to Gods honour, to that God, who is able to anſwer ſcruples, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſerve a people, and to command ſettlement according to his own will and way.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROMANES 3.8.</hi>
+                  </bibl> And not rather as we be ſlanderouſly reported, and as ſome affirm, that we ſay, Let <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do evill that good may come: whoſe damnation is juſt.</q>
+               <q>
+                  <bibl>
+                     <hi>ROMANES 13.23.</hi>
+                  </bibl> Whatſoever is not of faith is ſinne.</q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
